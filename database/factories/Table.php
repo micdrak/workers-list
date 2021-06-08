@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Database\Structure;
+namespace Database\Factories;
 
 class Table
 {
